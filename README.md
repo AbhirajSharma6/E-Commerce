@@ -63,6 +63,7 @@ ecommerce-platform/
   index.jsp
 
 How to Run
+Live Website: https://whisking-update-drank.ngrok-free.dev/ecommerce-platform/
 
 1. Install Java JDK 11+, MySQL 8.0, Apache Tomcat 9.x
 2. Run database/schema.sql in MySQL

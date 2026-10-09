@@ -94,7 +94,3 @@ Java Concepts Used
 | MVC | Model, View, Controller |
 | JDBC | PreparedStatements, Transactions, Batch operations |
 | Servlets | WebServlet, WebFilter, Session Management |
-
-```
-
-Paste this → click **Commit changes**.
